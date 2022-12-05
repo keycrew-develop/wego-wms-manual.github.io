@@ -5,24 +5,22 @@
 
 ## 2. 改訂履歴
 -1.0:
-  - 作成日時：2022-12-07
+  - 作成日時：2022-12-05
   - 更新内容：初版作成
 
 ## 3. 目次
 
-- WMSマニュアル
-  - [1. ドキュメント作成者](#1-ドキュメント作成者)
-  - [2. 改訂履歴](#2-改訂履歴)
-  - [3. 目次](#3-目次)
+- 各画面操作方法
   - [4. WMSインストール方法](#4-wmsインストール方法)
   - [5. ログイン方法](#5-ログイン方法)
-- 各画面操作方法
-  - aaa
+  - 入荷
+    - [入荷予定一括入荷処理](ItemPO.md#s19-入荷予定一括入荷処理)
+    - [入荷予定一覧](ItemPO.md#s22-入荷予定一覧)
 
 
 ## 4. WMSインストール方法
 
-1. **※※※重要**　WMSのURLを**Microsoft Edge**に入力する　**※※※**(https://stockcrewbaw.azurewebsites.net/?cd=wego)
+1. **※※※重要**　WMSの[URL](https://stockcrewbaw.azurewebsites.net/?cd=wego)を**Microsoft Edge**に入力する　**※※※**(https://stockcrewbaw.azurewebsites.net/?cd=wego)
 2. 下記画面が表示されるので[詳細情報]をクリックする
    1. ![BAWのWindows保護画面](/img/Install/BAW_Windows_Guard.png)
 3. 下記画面が表示されるので[実行]をクリックする
@@ -33,6 +31,3 @@
 ## 5. ログイン方法
 1.   WMSのURLを**Microsoft Edge**に入力する(https://stockcrewbaw.azurewebsites.net/?cd=wego)
 2.   ログイン画面が開くので社員コードに100, パスワードに100を入力し[ログオン]をクリックする![ログイン画面](/img/Install/wms-login.png)
-
-# 各画面操作方法
-## [入荷](ItemPO.md)
