@@ -28,14 +28,14 @@
     - [受注伝票別](ECOrder.md#j33-ec受注一覧-伝票別)
     - [返品登録](ECOrder.md#j14-ec受注登録返品登録)
   - [倉庫業務](Warehouse.md)
-    - [W70 在庫ロケーション一覧](Warehouse.md#w70-在庫ロケーション一覧)
-    - [W72 時点在庫集計](Warehouse.md#w72-時点在庫集計)
-    - [W74 僅少在庫リスト](Warehouse.md#w74-僅少在庫リスト)
-    - [W80 出荷実績集計](Warehouse.md#w80-出荷実績集計)
-    - [W82 入荷実績集計](Warehouse.md#w82-入荷実績集計)
-    - [W90 ロケーションマスタ](Warehouse.md#w90-ロケーションマスタ)
-    - [S80 商品在庫調整](Warehouse.md#s80-商品在庫調整)
-    - [S81 商品在庫調整一覧](Warehouse.md#s81-商品在庫調整一覧)
+    - [在庫ロケーション一覧](Warehouse.md#w70-在庫ロケーション一覧)
+    - [時点在庫集計](Warehouse.md#w72-時点在庫集計)
+    - [僅少在庫リスト](Warehouse.md#w74-僅少在庫リスト)
+    - [出荷実績集計](Warehouse.md#w80-出荷実績集計)
+    - [入荷実績集計](Warehouse.md#w82-入荷実績集計)
+    - [ロケーションマスタ](Warehouse.md#w90-ロケーションマスタ)
+    - [商品在庫調整](Warehouse.md#s80-商品在庫調整)
+    - [商品在庫調整一覧](Warehouse.md#s81-商品在庫調整一覧)
 
 
 ## 4. WMSインストール方法
