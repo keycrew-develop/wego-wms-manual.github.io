@@ -28,4 +28,4 @@
 
 
 
-## [目次に戻る{ignore=true}](index.md#目次)
+## [目次に戻る](index.md#目次)
