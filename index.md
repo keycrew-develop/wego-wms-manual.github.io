@@ -53,6 +53,6 @@
 
 ## 5. ログイン方法
 1.   WMSのURLを**Microsoft Edge**に入力する(https://stockcrewbaw.azurewebsites.net/?cd=wego)
-2.   ログイン画面が開くので社員コードに100, パスワードに100を入力し[ログオン]をクリックする![ログイン画面](/img/Install/wms-login.png)
+2.   ログイン画面が開くので社員コードとパスワードを入力し[ログオン]をクリックする![ログイン画面](/img/Install/wms-login.png)
 
 ## [目次に戻る](#目次)
