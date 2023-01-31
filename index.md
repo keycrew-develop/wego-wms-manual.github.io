@@ -48,7 +48,7 @@
    1. ![BAWのWindows保護画面](/img/Install/BAW_Windows_Guard.png)
 3. 下記画面が表示されるので[実行]をクリックする
    1. ![BAWのWindows保護詳細画面](/img/Install/BAW_Windows_Guard_Dtl.png)
-4. WMSが開くので認証キーを入力する(初回のみ、K6wj43を入力)
+4. WMSが開くので認証キーを入力する(キーは担当者にお聞きください。)
    1. ![認証キー入力画面](/img/Install/Insert_SystemKey.png)
 
 ## 5. ログイン方法
